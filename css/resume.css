@@ -177,6 +177,12 @@ navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.ac
   color: #343a40;
 }
 
-}
+
 .navbar-dark .navbar-nav .nav-link {
-    color: #343a40
+    color: #343a40 
+  }
+
+.img-profile.img-fluid.rounded-circle.mx-auto.mb-2{ 
+  border-color: white !important
+}
+
